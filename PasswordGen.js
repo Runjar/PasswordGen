@@ -14,4 +14,4 @@ function generarContrasena(longitud) {
 var longitud = prompt("Por favor ingrese la longitud de la contraseña que desea generar:");
 var contrasenaGenerada = generarContrasena(longitud);
 alert("Su contraseña segura es: " + contrasenaGenerada);
-```
+
